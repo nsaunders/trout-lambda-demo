@@ -1,0 +1,7 @@
+{
+  "name": "trout-lambda-demo",
+  "profile": "trout-lambda-demo",
+  "lambda": {
+    "runtime": "nodejs10.x"
+  }
+}
